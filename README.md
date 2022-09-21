@@ -6,7 +6,7 @@ Just type 'dogsay' followed by the message, and press Enter.
 
 # Steps to Install :
 
-1. Clone this Repo to your PC.
+1. (Clone this Repo) OR (Download the Zip file) to your PC.
 2. Add path to the .exe file (find it inside /dist folder) to the Environment Variables.
 
-That's it! Call your Doggo from anywhere :)
+# That's it! Call your Doggo from anywhere :)
